@@ -1,4 +1,4 @@
-# Rattrapage tim
+# Rattrapage Tim
 
 Voici le lien public ou mon code devrait se situer : 13.38.129.177:8050
 Cependant, le lien ne fonctionne pas 2 jours. 
