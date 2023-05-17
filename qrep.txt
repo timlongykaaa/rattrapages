@@ -1,0 +1,21 @@
+Qu'est ce que Python?; langage informatique
+Comment initialiser un nouveau dépôt Git?; git innit
+Quelle commande permet de créer un répertoire ?; mkdir
+Quelle est le langage qui permet de mettre des codes sur Github ?; git
+Citez une distribution de Linux qui commence par U; ubuntu
+Quel framework permet de développer des pages web interactives ?; dash
+Comment créer une nouvelle branche Git?; git branch
+Quelle est la terminaison d'un fichier python ?; .py
+Quelle commande affiche le répertoire où l'on se situe ?; pwd
+Que veut dire sudo ?; superuser do
+Linux est-il une machine virtuelle ou un langage de programmation? ; machine virtuelle
+A quel langage correspond le .sh ?; bash
+Quelle est la distribution Linux d'Amazon ?; aws
+Quelle commande permet de changer de répertoire de travail ?; cd
+Que veut dire la commande rm ?; remove
+Comment afficher tout les fichiers d'un répertoire y compris les fichiers cachés ?; ls -a
+Quelle commande pour run un fichier Python (sous Linux) ?; python3
+Comment remonter dans le répertoire juste au-dessus ? cd ..
+Comment revenir au home directory directement ?; cd ~
+Quel outil pour rechercher un motif dans un fichier ?; grep
+
