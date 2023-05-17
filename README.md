@@ -5,9 +5,9 @@ Voici le lien public ou mon code devrait se situer : 13.38.129.177:8050
 Cependant, le lien ne fonctionne pas et affiche une indisponibilté du serveur. 
 
 J'ai tout essayé:
-*Sur le temrinal Linux, le Dash run comme il faut sur le port 8050.
-*Sur AWS, j'ai modifié les règles entrantes en autorisant le port 8050 à se connecter, depuis n'importe où (IPV4).
-*L'adresse IP est publique, l'instance est en cours d'exécution et j'ai vérifié les pare-feux sur AWS. 
+- Sur le temrinal Linux, le Dash run comme il faut sur le port 8050.
+- Sur AWS, j'ai modifié les règles entrantes en autorisant le port 8050 à se connecter, depuis n'importe où (IPV4).
+- L'adresse IP est publique, l'instance est en cours d'exécution et j'ai vérifié les pare-feux sur AWS. 
 
 Tout est censé fonctionner... seulement non ...
 
