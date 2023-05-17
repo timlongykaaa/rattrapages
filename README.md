@@ -2,7 +2,7 @@
 
 Voici le lien public ou mon code devrait se situer : 13.38.129.177:8050
 
-Cependant, le lien ne fonctionne pas 2 jours. 
+Cependant, le lien ne fonctionne pas et affiche une indisponibilté du serveur. 
 
 J'ai tout essayé:
 *Sur le temrinal Linux, le Dash run comme il faut sur le port 8050.
